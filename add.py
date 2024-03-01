@@ -5,4 +5,5 @@ def substraction(a,b):
     return (a-b)
 
 def division(a,b):
-    retunr(a/b)
+    return(a/b)
+
